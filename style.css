@@ -1,10 +1,13 @@
 .body{
     font-family: 'Bebas Neue', cursive;
 }
-#nav-z ul{
+header{
+    background-color: #fffbf0;
+}
+.nav ul{
     text-decoration: none;
 }
-#nav-z img{
+.navbar-shop img{
 width: 300px;
 }
 .text-warning-penguin{
@@ -68,12 +71,13 @@ height: 135px;
 }
 .about-us{
     background-color: white;
+    padding-bottom: 20px;
 }
 .store img{
 width: 599px;
 height: 354.07px
 }
-#contact-us{
+#subscribe{
     height: 300px;
     background-color: #fceae8;
     border-radius: 10px;
